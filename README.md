@@ -1,6 +1,7 @@
 # Machine learning 
 
-* nonMNIST dataset: Font-recognition
+* nonMNIST dataset: Font-recognition part 1
+* nonMNIST_small dataset: Font-recognition part 2
 
 
 Solutions to different labs created by Jérémie Decock from the CSE204 machine learning course.

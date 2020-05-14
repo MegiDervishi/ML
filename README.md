@@ -1,5 +1,8 @@
 # Machine learning 
 
+* nonMNIST dataset: Font-recognition
+
+
 Solutions to different labs created by Jérémie Decock from the CSE204 machine learning course.
 
 * Lab 1: Introduction to Pandas

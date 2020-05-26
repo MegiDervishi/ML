@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  21 MAY 2020 04:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  21 MAY 2020 05:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**hw.tex
-(./hw.tex
+**report2.tex
+(./report2.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
@@ -653,8 +653,9 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen130
 \Gm@layoutvoffset=\dimen131
 \Gm@dimlist=\toks23
-) (./hw.aux)
-\openout1 = `hw.aux'.
+)
+(./report2.aux)
+\openout1 = `report2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 13.
 LaTeX Font Info:    Try loading font information for OML+jkp on input line 13.
@@ -668,8 +669,7 @@ LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for OMS/jkp/m/n on input line 13.
 LaTeX Font Info:    Try loading font information for OMS+jkp on input line 13.
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/kpfonts/omsjkp.fd
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/kpfonts/omsjkp.fd
 File: omsjkp.fd 2006/08/15 v1.0
 )
 LaTeX Font Info:    ... okay on input line 13.
@@ -826,140 +826,53 @@ LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 14.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/kpfonts/ujkpsyc.fd
 File: ujkpsyc.fd 2006/08/15 v1.0
 )
-<figures/img1.png, id=1, 677.53125pt x 178.6675pt>
-File: figures/img1.png Graphic file (type png)
-<use figures/img1.png>
-Package pdftex.def Info: figures/img1.png  used on input line 19.
-(pdftex.def)             Requested size: 193.47578pt x 51.0189pt.
-LaTeX Font Info:    Try loading font information for U+dsrom on input line 26.
+<graph1.png, id=1, 864.22874pt x 336.25626pt>
+File: graph1.png Graphic file (type png)
+<use graph1.png>
+Package pdftex.def Info: graph1.png  used on input line 22.
+(pdftex.def)             Requested size: 338.58632pt x 131.73459pt.
+<estimators.png, id=3, 497.4585pt x 393.26926pt>
+File: estimators.png Graphic file (type png)
+<use estimators.png>
+Package pdftex.def Info: estimators.png  used on input line 33.
+(pdftex.def)             Requested size: 169.29315pt x 133.83578pt.
+<estimators2.png, id=4, 497.4585pt x 394.47375pt>
+File: estimators2.png Graphic file (type png)
+<use estimators2.png>
+Package pdftex.def Info: estimators2.png  used on input line 37.
+(pdftex.def)             Requested size: 169.29315pt x 134.2457pt.
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/doublestroke/Udsrom.fd
-File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
-)
-Underfull \hbox (badness 10000) in paragraph at lines 26--30
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--30
-
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [1
 
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figur
-es/img1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 35--38
-
- []
-
-<figures/res.png, id=17, 836.12375pt x 469.755pt>
-File: figures/res.png Graphic file (type png)
-<use figures/res.png>
-Package pdftex.def Info: figures/res.png  used on input line 47.
-(pdftex.def)             Requested size: 241.84843pt x 135.87424pt.
-<figures/steps.png, id=18, 269.005pt x 97.36375pt>
-File: figures/steps.png Graphic file (type png)
-<use figures/steps.png>
-Package pdftex.def Info: figures/steps.png  used on input line 52.
-(pdftex.def)             Requested size: 241.84843pt x 87.53592pt.
-<figures/acc.png, id=19, 831.105pt x 113.42375pt>
-File: figures/acc.png Graphic file (type png)
-<use figures/acc.png>
-Package pdftex.def Info: figures/acc.png  used on input line 57.
-(pdftex.def)             Requested size: 266.03474pt x 36.30672pt.
-
-Overfull \hbox (24.18631pt too wide) in paragraph at lines 57--58
- [][] 
- []
-
-
-Overfull \hbox (1.94pt too wide) in paragraph at lines 45--60
-[][] []
- []
-
-<figures/graph.png, id=20, 840.13875pt x 621.32124pt>
-File: figures/graph.png Graphic file (type png)
-<use figures/graph.png>
-Package pdftex.def Info: figures/graph.png  used on input line 66.
-(pdftex.def)             Requested size: 241.84843pt x 178.85126pt.
-
-Overfull \hbox (48.37265pt too wide) in paragraph at lines 66--67
- [][] 
- []
-
-<figures/theta.png, id=21, 825.0825pt x 652.4375pt>
-File: figures/theta.png Graphic file (type png)
-<use figures/theta.png>
-Package pdftex.def Info: figures/theta.png  used on input line 75.
-(pdftex.def)             Requested size: 241.84843pt x 191.24287pt.
-<figures/t.png, id=22, 316.18124pt x 572.1375pt>
-File: figures/t.png Graphic file (type png)
-<use figures/t.png>
-Package pdftex.def Info: figures/t.png  used on input line 80.
-(pdftex.def)             Requested size: 120.92421pt x 218.81133pt.
-
-Overfull \hbox (1.94pt too wide) in paragraph at lines 74--84
-[][] [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--86
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--86
-
- []
-
-[2 <./figures/res.png> <./figures/steps.png> <./figures/acc.png> <./figures/gra
-ph.png>]
-<figures/knn.png, id=31, 424.58624pt x 286.06876pt>
-File: figures/knn.png Graphic file (type png)
-<use figures/knn.png>
-Package pdftex.def Info: figures/knn.png  used on input line 95.
-(pdftex.def)             Requested size: 169.29315pt x 114.06317pt.
-<figures/cross.png, id=32, 414.54875pt x 281.05pt>
-File: figures/cross.png Graphic file (type png)
-<use figures/cross.png>
-Package pdftex.def Info: figures/cross.png  used on input line 101.
-(pdftex.def)             Requested size: 169.29315pt x 114.77237pt.
-
-Overfull \hbox (1.94pt too wide) in paragraph at lines 94--104
-[][] [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--105
-
- []
-
-[3 <./figures/theta.png> <./figures/t.png> <./figures/knn.png> <./figures/cross
-.png>] (./hw.aux) ) 
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./graph
+1.png>] [2 <./estimators.png> <./estimators2.png>] [3] (./report2.aux) ) 
 Here is how much of TeX's memory you used:
- 5856 strings out of 492649
- 84098 string characters out of 6129622
- 155746 words of memory out of 5000000
- 9609 multiletter control sequences out of 15000+600000
- 35894 words of font info for 90 fonts, out of 8000000 for 9000
+ 5813 strings out of 492649
+ 83288 string characters out of 6129622
+ 155748 words of memory out of 5000000
+ 9576 multiletter control sequences out of 15000+600000
+ 35348 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,10n,40p,1334b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/kpfonts/
-kpfonts-expert.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.
-enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/doublestroke/dsrom10
-.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb
-></usr/local/texlive/2018/texmf-dist/fonts/type1/public/kpfonts/jkpex.pfb></usr
-/local/texlive/2018/texmf-dist/fonts/type1/public/kpfonts/jkpmi.pfb></usr/local
-/texlive/2018/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/tex
-live/2018/texmf-dist/fonts/type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/
-2018/texmf-dist/fonts/type1/public/kpfonts/jkpsy.pfb></usr/local/texlive/2018/t
-exmf-dist/fonts/type1/public/kpfonts/jkpsyb.pfb></usr/local/texlive/2018/texmf-
-dist/fonts/type1/public/kpfonts/jkpsyc.pfb>
-Output written on hw.pdf (3 pages, 1659940 bytes).
+ 42i,15n,40p,655b,500s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/l
+ocal/texlive/2018/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}{/usr/l
+ocal/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/20
+18/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texlive/2018/t
+exmf-dist/fonts/type1/public/kpfonts/jkpex.pfb></usr/local/texlive/2018/texmf-d
+ist/fonts/type1/public/kpfonts/jkpexa.pfb></usr/local/texlive/2018/texmf-dist/f
+onts/type1/public/kpfonts/jkpmi.pfb></usr/local/texlive/2018/texmf-dist/fonts/t
+ype1/public/kpfonts/jkpmia.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/
+public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/publ
+ic/kpfonts/jkpmne.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/kp
+fonts/jkpsy.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/kpfonts/
+jkpsyb.pfb>
+Output written on report2.pdf (3 pages, 403525 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
+ 57 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
